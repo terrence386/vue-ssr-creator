@@ -1,0 +1,7 @@
+
+#! /bin/bash
+file="/dist/start.js"
+
+BASE_PATH=`pwd`
+
+node $BASE_PATH$file

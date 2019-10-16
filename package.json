@@ -1,0 +1,22 @@
+{
+    "name": "vue-ssr-creator",
+    "version": "0.1.4",
+    "description": "Quickly create projects for vue ssr",
+    "bin": {
+      "admincraft": "bin/main.js"
+    },
+    "author": "terrence386 <814324580@qq.com>",
+    "repository": {
+      "type": "git",
+      "url": "https://gitee.com/mynoe/vue-ssr-cli.git"
+    },
+    "license": "MIT",
+    "private": false,
+    "dependencies": {
+      "chalk": "^2.4.2",
+      "commander": "^2.20.0",
+      "download-git-repo": "^1.1.0",
+      "inquirer": "^6.3.1",
+      "ora": "^3.4.0"
+    }
+  }
